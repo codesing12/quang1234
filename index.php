@@ -15,9 +15,9 @@
             <i class="fab fa-instagram-square item"></i>
         </div>
         <nav class="navbar">
-            <a href="./index.php">Homepage</a>
-            <a href="#">New Products</a>
-            <a href="datacenter.php" class="right">Data Center</a>
+            <a href="./index.php">Main homepage</a>
+            <a href="#">New and selling products</a>
+                <a href="datacenter.php" class="right">Data storage information</a>
         </nav>
         <div class="banner">
             <img src="./bannercar.png" />
@@ -27,7 +27,7 @@
     <div class="container">
         <div class="grid-view">
             <div class="grid-item">
-                <img src="./batman.png"/>
+                <img src="./cartwo.jpg"/>
                 <a href="#"><b>Buy this</b></a>
             </div>
             <div class="grid-item">
@@ -35,19 +35,19 @@
                 <a href="#"><b>Buy this</b></a>
             </div>
             <div class="grid-item">
-                <img src="./minion.jpg"/>
+                <img src="./carthree.jpg"/>
                 <a href="#"><b>Buy this</b></a>
             </div>
             <div class="grid-item">
-                <img src="./bape.jpg"/>
+                <img src="./carfour.jpg"/>
                 <a href="#"><b>Buy this</b></a>
             </div>
             <div class="grid-item">
-                <img src="./kaws.jpg"/>
+                <img src="./carfive.jpg"/>
                 <a href="#"><b>Buy this</b></a>
             </div>
             <div class="grid-item">
-                <img src="./series.jpg"/>
+                <img src="./carsix.jpeg"/>
                 <a href="#"><b>Buy this</b></a>
             </div>       
         </div>
