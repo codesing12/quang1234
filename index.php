@@ -27,7 +27,7 @@
     <div class="container">
         <div class="grid-view">
             <div class="grid-item">
-                <img src="./tree-super-car-3d-concept-png-image_4186743.jpg"/>
+                <img src="./cartwo.jpg"/>
                 <a href="#"><b>Buy this</b></a>
             </div>
             <div class="grid-item">
