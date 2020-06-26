@@ -15,9 +15,9 @@
             <i class="fab fa-instagram-square item"></i>
         </div>
         <nav class="navbar">
-            <a href="./index.php">Homepageone</a>
-            <a href="#">New Products</a>
-            <a href="datacenter.php" class="right">Data Center</a>
+            <a href="./index.php">main homepage</a>
+            <a href="#">Super nice product</a>
+            <a href="datacenter.php" class="right">Reserved data</a>
         </nav>
         <div class="bannerone">
             <img src="./bannerone.jpg" />
