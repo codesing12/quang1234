@@ -15,9 +15,9 @@
             <i class="fab fa-instagram-square item"></i>
         </div>
         <nav class="navbar">
-            <a href="./index.php">Main homepage</a>
-            <a href="#">Super nice product</a>
-            <a href="datacenter.php" class="right">Reserved data</a>
+            <a href="./index.php">Homepage</a>
+            <a href="#">New Products</a>
+            <a href="datacenter.php" class="right">Data Center</a>
         </nav>
         <div class="banner">
             <img src="./banner.jpg" />
@@ -27,7 +27,7 @@
     <div class="container">
         <div class="grid-view">
             <div class="grid-item">
-                <img src="./cartwo.jpg"/>
+                <img src="./batman.png"/>
                 <a href="#"><b>Buy this</b></a>
             </div>
             <div class="grid-item">
