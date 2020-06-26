@@ -27,7 +27,7 @@
     <div class="container">
         <div class="grid-view">
             <div class="grid-item">
-                <img src="./batman.png"/>
+                <img src="./hahaha.jpg"/>
                 <a href="#"><b>Buy this</b></a>
             </div>
             <div class="grid-item">
