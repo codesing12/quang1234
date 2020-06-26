@@ -23,7 +23,7 @@
             <img src="./bannercar.png" />
         </div>
     </header>
-    <h1>Highlight Products</h1>
+    <h1>Most purchased products</h1>
     <div class="container">
         <div class="grid-view">
             <div class="grid-item">
