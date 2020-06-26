@@ -27,7 +27,7 @@
     <div class="container">
         <div class="grid-view">
             <div class="grid-item">
-                <img src="./hahaha.jpg"/>
+                <img src="./batman.png"/>
                 <a href="#"><b>Buy this</b></a>
             </div>
             <div class="grid-item">
@@ -39,7 +39,7 @@
                 <a href="#"><b>Buy this</b></a>
             </div>
             <div class="grid-item">
-                <img src="./bape.jpg"/>
+                <img src="./hahaha.jpg"/>
                 <a href="#"><b>Buy this</b></a>
             </div>
             <div class="grid-item">
