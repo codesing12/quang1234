@@ -19,15 +19,15 @@
             <a href="#">Super nice product</a>
             <a href="datacenter.php" class="right">Reserved data</a>
         </nav>
-        <div class="bannerone">
-            <img src="./bannerone.jpg" />
+        <div class="banner">
+            <img src="./banner.jpg" />
         </div>
     </header>
     <h1>Highlight Products</h1>
     <div class="container">
         <div class="grid-view">
             <div class="grid-item">
-                <img src="./batman.png"/>
+                <img src="./tree-super-car-3d-concept-png-image_4186743.jpg"/>
                 <a href="#"><b>Buy this</b></a>
             </div>
             <div class="grid-item">
