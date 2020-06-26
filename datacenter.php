@@ -38,19 +38,19 @@ c731685fd6d4f0ff39ed14bc0ef44f61524bc9d6b189ff230f81b8d76522ca38;dbname=d87d4948
     <div class="container">
         <div class="grid-view">
             <div class="grid-item">
-                <img src="./database.png"/>
+                <img src="./databaseone.jpg"/>
                 <a href="#" onClick="displayData()"><b>View Invoice Database</b></a>
             </div>
             <div class="grid-item">
-                <img src="./database.png" />
+                <img src="./databaseone.jpg" />
                 <a href="./InsertData.php" target="framename"><b>Add database</b></a>
             </div>
             <div class="grid-item">
-                <img src="./database.png"/>
+                <img src="./databaseone.jpg"/>
                 <a href="./DeleteData.php" target="framename"><b>Delete database</b></a>
             </div>
             <div class="grid-item">
-                <img src="./database.png"/>
+                <img src="./databaseone.jpg"/>
                 <a href="UpdateData.php" target="framename"><b>Update Database</b></a>
             </div>
             <div id ="displaychange" class="grid-item">
