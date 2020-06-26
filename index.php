@@ -19,8 +19,8 @@
             <a href="#">New Products</a>
             <a href="datacenter.php" class="right">Data Center</a>
         </nav>
-        <div class="images">
-            <img src="./images.jpg" />
+        <div class="banner">
+            <img src="./banner.jpg" />
         </div>
     </header>
     <h1>Highlight Products</h1>
