@@ -39,7 +39,7 @@
                 <a href="#"><b>Buy this</b></a>
             </div>
             <div class="grid-item">
-                <img src="./hahaha.jpg"/>
+                <img src="./bape.jpg"/>
                 <a href="#"><b>Buy this</b></a>
             </div>
             <div class="grid-item">
